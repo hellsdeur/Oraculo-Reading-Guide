@@ -11,7 +11,7 @@ Inicie por uma leitura completa do sistema, presente nos artigos e trabalhos aca
 
 # 2. Conceitos
 
-Seguir os tópicos a seguir em sequência, de preferência:
+Em seguida, estude os tópicos a seguir em sequência:
 
 - [Artificial Intelligence](./books-papers/RUSSEL-NORVIG-Artificial_Intelligence_4th.pdf). Conhecido como AIMA, é leitura obrigatória para todos os pesquisadores em IA. Os fundamentos de IA estão apresentados nos capítulos 1, 2, 3 e 4. Capítulos posteriores serão revisitados em tópicos futuros.
 - [Knowledge Discovery in Databases - KDD](./books-papers/1996-fayyad.pdf): é o processo de sistema baseado em conhecimento mais tradicional, em que a maioria dos trabalhos acadêmicos se baseia.
