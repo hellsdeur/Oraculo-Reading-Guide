@@ -9,6 +9,8 @@ Inicie por uma leitura transversal sobre o Oraculo, presente nos artigos e traba
 
 - (TCC) [Matos, 2022](./academic/TCC-Helder.pdf). Descrição completa do modelo de aprendizado e da implantação do sistema na SIAC.
 
+Em seguida, vale a pena consultar o trabalho de [Alves et. al., 2024](./academic/Artigo-Alves-2024.pdf), que classifica os 10 crimes de maior ocorrência na cidade de Marabá utilizando os modelos de linguagem baseados em BERT.
+
 # 2. Conceitos
 
 Em seguida, estude os tópicos a seguir em sequência:
